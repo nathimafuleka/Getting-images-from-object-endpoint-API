@@ -7,6 +7,12 @@
   3. TailwindCSS
   4. ReactCountDown
   
+# Project structure
+  
+The website should change artworks every 10 seconds
+When tapping on an artwork, display additional information about the artwork -- When displaying the art information, the timer should stop
+Build the frontend with the templating language that is included with the framework.
+  
  # Code Explanation
   First of all, creating an axios request function to get the data from API. But, some of the objects are missing and some of the images are missing in some parts. Totally, over 100,000 out of 400,000 objects did not have images.
   So, if we make a request on that missing object, we will end up with some errors.
