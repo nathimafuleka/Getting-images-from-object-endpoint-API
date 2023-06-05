@@ -26,3 +26,8 @@ Build the frontend with the templating language that is included with the framew
   4. <b> Display </b> - I simply used MaterialUI & TailwindCSS on that part, UI may not on the stage of high attraction because I'm on rush. It may take time to add every entries to  the details, so I chose to display some of the data as the Dialog on clicking the image. You may change it later to add more items.
   
 
+## run the following command
+
+```
+npm install 
+```
